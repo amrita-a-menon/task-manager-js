@@ -2,25 +2,25 @@ Task Manager
 
 A simple task management web app that allows users to add and remove tasks dynamically.
 
-## Features
+Features
 
 - Add a new task using the input field.
 - Mark tasks as complete with a dedicated button.
 - Display a live task counter that updates automatically.
 - Minimal UI.
 
-## Tech Stack
+Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 
-## How to Run
+How to Run
 
 1. Download the files.
 2. Open `index.html` in your browser.
 
-## Future Improvements
+Future Improvements
 
 - Add local storage.
 - Add task editing so users can update task text after creation.

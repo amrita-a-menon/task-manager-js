@@ -28,7 +28,7 @@ Future Improvements
 - Add a filter for active/completed tasks.
 
 
-## What I Learned
+What I Learned
 
 - Handling user input in JavaScript
 - DOM manipulation and event handling
